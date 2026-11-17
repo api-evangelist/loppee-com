@@ -1,4 +1,4 @@
-# loppee-com
+# Loppee
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,144 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-loppee-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://loppee.com/
+Loppee is the hub for local businesses and customers, offering AI agents to find, trust, manage, hire, and get hired. It provides a verified and listed platform for businesses, ensuring clear labeling and facilitating connections between businesses and consumers through AI-driven tools and services.
+
+**Areas:** Business · AI · Marketplace · Local · Services
+
+## Loppee on APIs.io
+
+Everything profiled for Loppee is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/loppee-com/](https://apis.io/providers/loppee-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (12)
+
+- [Loppee Account API](https://apis.io/apis/loppee-com/loppee-com-account-api/) — The Account API from Loppee — 6 operation(s) for account.
+- [Loppee Agent Contract API](https://apis.io/apis/loppee-com/loppee-com-agent-contract-api/) — The Agent Contract API from Loppee — 8 operation(s) for agent contract.
+- [Loppee Business Owner API](https://apis.io/apis/loppee-com/loppee-com-business-owner-api/) — The Business Owner API from Loppee — 82 operation(s) for business owner.
+- [Loppee Customer Account API](https://apis.io/apis/loppee-com/loppee-com-customer-account-api/) — The Customer Account API from Loppee — 31 operation(s) for customer account.
+- [Loppee Customer Jobs API](https://apis.io/apis/loppee-com/loppee-com-customer-jobs-api/) — The Customer Jobs API from Loppee — 1 operation(s) for customer jobs.
+- [Loppee Destination Address Suggestions API](https://apis.io/apis/loppee-com/loppee-com-destination-address-suggestions-api/) — The Destination Address Suggestions API from Loppee — 1 operation(s) for destination address suggestions.
+- [Loppee Destination Location Proofs API](https://apis.io/apis/loppee-com/loppee-com-destination-location-proofs-api/) — The Destination Location Proofs API from Loppee — 1 operation(s) for destination location proofs.
+- [Loppee Discovery API](https://apis.io/apis/loppee-com/loppee-com-discovery-api/) — The Discovery API from Loppee — 6 operation(s) for discovery.
+- [Loppee Location Proofs API](https://apis.io/apis/loppee-com/loppee-com-location-proofs-api/) — The Location Proofs API from Loppee — 2 operation(s) for location proofs.
+- [Loppee Moderated Actions API](https://apis.io/apis/loppee-com/loppee-com-moderated-actions-api/) — The Moderated Actions API from Loppee — 51 operation(s) for moderated actions.
+- [Loppee Operations API](https://apis.io/apis/loppee-com/loppee-com-operations-api/) — The Operations API from Loppee — 5 operation(s) for operations.
+- [Loppee Trust Cards API](https://apis.io/apis/loppee-com/loppee-com-trust-cards-api/) — The Trust Cards API from Loppee — 9 operation(s) for trust cards.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Loppee Com Webhooks](https://apis.io/asyncapis/loppee-com/loppee-com-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Loppee Agentic Access](https://apis.io/agentic-access/loppee-com/loppee-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [BusinessIndex](https://apis.io/schemas/loppee-com/loppee-com-business-index/)
+- [DomainTrustCardResponse](https://apis.io/schemas/loppee-com/loppee-com-domain-trust-card-response/)
+- [HealthResponse](https://apis.io/schemas/loppee-com/loppee-com-health-response/)
+- [OwnerDashboardResponse](https://apis.io/schemas/loppee-com/loppee-com-owner-dashboard-response/)
+- [Loppee v3 recommendation response](https://apis.io/schemas/loppee-com/loppee-com-recommendation-response/)
+- [Loppee v3 search response](https://apis.io/schemas/loppee-com/loppee-com-search-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Loppee Com Context](https://apis.io/jsonld/loppee-com/loppee-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Loppee API Rules](https://apis.io/rules/loppee-com/loppee-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Loppee Authentication](https://apis.io/security/loppee-com/loppee-com-authentication/)
+- [Loppee Domain Security](https://apis.io/security/loppee-com/loppee-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Loppee Plans Pricing](https://apis.io/plans/loppee-com/loppee-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://loppee.com/)
+- [API reference](https://loppee.com/developers)
+- [Pricing](https://loppee.com/pricing)
+- [Support](https://loppee.com/support)
+- [Terms of service](https://loppee.com/terms)
+- [Privacy policy](https://loppee.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 53.2** — developing · rubric 0.27.0 · scored 2026-11-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 67.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 30.2 |
+| Access clarity | 60.0 |
+
+**Agent readiness 51.2** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/loppee-com/](https://apis.io/providers/loppee-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Loppee: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/loppee-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
